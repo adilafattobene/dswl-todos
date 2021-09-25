@@ -3,7 +3,9 @@
 Projeto desenvolvido durante as aulas do curso Tecnologia em Análise em Desenvolvimento de Sistemas do Instituto Federal de Campinas.
 
 *Disciplina:* DESENVOLVIMENTO DE SISTEMAS WEB
+<br/>
 *Período:* 6º
+<br/>
 *Ano:* 2021
 
 ## Descrição
